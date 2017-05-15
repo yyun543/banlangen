@@ -1,0 +1,30 @@
+Windows Registry Editor Version 5.00
+
+;Powered By BugLi:263273742@qq.com
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\taskdl.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wannacry.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\mssecsvc.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\taskse.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\tasksche.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\taskhsvc.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\111.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wcry.exe]
+"Debugger"="taskkill /F /IM "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\lhdfrgui.exe]
+"Debugger"="taskkill /F /IM "
